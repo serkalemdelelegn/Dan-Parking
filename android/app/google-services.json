@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840917359201",
+    "project_id": "mela-d8ba9",
+    "storage_bucket": "mela-d8ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840917359201:android:6b22a7bead06e48860e820",
+        "android_client_info": {
+          "package_name": "com.example.danparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840917359201-hbb73r2cop9006d9ddk4ngtgh1l543ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6tQfA3fbrYrJl1EcdzDXUM5rwU65uys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840917359201-hbb73r2cop9006d9ddk4ngtgh1l543ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

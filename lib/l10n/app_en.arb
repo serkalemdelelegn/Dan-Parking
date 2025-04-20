@@ -1,0 +1,27 @@
+{
+  "language":"English",
+  "@language":{
+      "description": "current language"
+  },
+
+  "helloWorld": "Hello ",
+  "@helloWorld": {
+    "description": " programmer greeting"
+  },
+
+  "good_day":"Welcome to Dan Energy Parking",
+  "@good_day": {
+    "description":"good day wish"
+  },
+
+
+  "hello": "Hello {userName}",
+  "@hello": {
+    "description": "A message with a single parameter",
+    "placeholders": {
+      "userName": 
+      { "type": "String"}
+    }
+  }
+
+}
